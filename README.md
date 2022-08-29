@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there 👋, I'm Arturo. <a href="https://www.linkedin.com/in/arturomendivil/"><img align="right" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin"/></a>
+---
 <!--
 **artmen1516/artmen1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+I'm Arturo. [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/zluvsand/)
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=artmen1516&show_icons=true&theme=dark"/>
