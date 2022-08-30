@@ -26,9 +26,14 @@
 <h2> </h2>
 <!-- End: About me section -->
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api?username=artmen1516&show_icons=true&hide=issues&theme=tokyonight"/>
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artmen1516&layout=compact&theme=tokyonight"/>
+<!-- Start: Stats section -->
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=artmen1516&show_icons=true&hide=issues&theme=tokyonight&border_color=693fc5"/>
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artmen1516&layout=compact&theme=tokyonight&border_color=693fc5"/>
 
+  
+  
+<!-- End: Stats section -->
+  
 <!-- ORIGINAL Example Readme
 **artmen1516/artmen1516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
